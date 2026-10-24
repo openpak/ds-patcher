@@ -1,8 +1,8 @@
-# OpenPak Nintendo DS WFC patcher
+# OpenPak DS Patcher
 
 OpenPak fork of [AdmiralCurtiss/WfcPatcher](https://github.com/AdmiralCurtiss/WfcPatcher),
 licensed under GPL-3.0 (see LICENSE). Upstream history, attribution and source
-are preserved. The origin repository is `openpak/nn-wfc-patcher-ds`;
+are preserved. The origin repository is `openpak/ds-patcher`;
 `upstream` tracks AdmiralCurtiss with pushing disabled locally.
 
 This is a desktop tool that patches dumped Nintendo DS game files, rather
