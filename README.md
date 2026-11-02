@@ -33,8 +33,7 @@ See [deploy](docs/deploy.md).
 
 - [Protocol](docs/protocol.md)
 - [Deploy](docs/deploy.md)
-- [Notes](docs/notes.md)
-- [Upstream README](docs/upstream.md)
+- [Provenance](docs/provenance.md)
 
 ## Licence
 

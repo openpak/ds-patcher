@@ -1,3 +1,9 @@
+# Provenance
+
+Based on [AdmiralCurtiss/WfcPatcher](https://github.com/AdmiralCurtiss/WfcPatcher) (GPL-3.0-or-later). License as upstream; see LICENSE. The upstream README follows verbatim.
+
+---
+
 WfcPatcher
 ==========
 
