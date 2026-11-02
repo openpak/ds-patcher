@@ -10,7 +10,6 @@ than an application installed on the DS. Upstream accepts `--domain` to
 select a replacement WFC domain. The existing project targets .NET Framework
 3.5; see the upstream README and project file for its original interface.
 
-Fork created on 18 October 2026. No OpenPak build has been released and no
-DS hardware/game compatibility is claimed. Before release, validate OpenPak
-endpoint rewriting, SSL handling, supported games, unchanged original-file
-backup behavior and a repeatable build. Preserve the license and authors.
+Preserve the license and authors. Release validation covers OpenPak endpoint
+rewriting, SSL handling, supported games, unchanged original-file backup
+behavior and a repeatable build.
