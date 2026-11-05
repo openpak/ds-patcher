@@ -4,3 +4,7 @@ obj
 *.suo
 next-session.md
 NEXT-SESSION.md
+nds/build/
+nds/*.elf
+nds/*.nds
+nds/*.map
